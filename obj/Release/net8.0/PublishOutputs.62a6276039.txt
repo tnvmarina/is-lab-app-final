@@ -1,0 +1,12 @@
+/home/maria/IsLabApp/publish/IsLabApp
+/home/maria/IsLabApp/publish/appsettings.Development.json
+/home/maria/IsLabApp/publish/appsettings.json
+/home/maria/IsLabApp/publish/IsLabApp.dll
+/home/maria/IsLabApp/publish/IsLabApp.deps.json
+/home/maria/IsLabApp/publish/IsLabApp.runtimeconfig.json
+/home/maria/IsLabApp/publish/IsLabApp.pdb
+/home/maria/IsLabApp/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/maria/IsLabApp/publish/Microsoft.OpenApi.dll
+/home/maria/IsLabApp/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/maria/IsLabApp/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/maria/IsLabApp/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
